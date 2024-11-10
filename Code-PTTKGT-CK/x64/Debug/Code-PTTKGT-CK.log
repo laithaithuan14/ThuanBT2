@@ -1,0 +1,4 @@
+﻿  testbai15.cpp
+C:\Users\ASUS\OneDrive\Desktop\Code-PTTKGT-CK\testbai15.cpp(7,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\OneDrive\Desktop\Code-PTTKGT-CK\testbai15.cpp(17,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Code-PTTKGT-CK.vcxproj -> C:\Users\ASUS\OneDrive\Desktop\Code-PTTKGT-CK\x64\Debug\Code-PTTKGT-CK.exe
